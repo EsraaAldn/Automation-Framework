@@ -13,5 +13,5 @@ This project is an automation framework built in Java using Cucumber and Seleniu
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/EsraaAldn/Automation-Framework.git
+   cd Automation-Framework
